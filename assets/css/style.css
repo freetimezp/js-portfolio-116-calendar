@@ -154,6 +154,10 @@ button {
     position: relative;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 @media (max-with: 900px) {
     nav {
         width: 100%;
